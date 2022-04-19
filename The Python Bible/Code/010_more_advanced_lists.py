@@ -1,5 +1,7 @@
 # This is a file which some examples of some more advanced list work
 
+# This uses an infinite loop - Ctrl-C will get you out of it.
+
 # Generate list of users
 known_users = ["Alice", "Bob", "Claire", "Dan", "Emma", "Fred", "Georgie", "Harry"]
 
