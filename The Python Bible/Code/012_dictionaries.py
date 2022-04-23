@@ -37,3 +37,6 @@ print(type(b))
 # We can slide while converting to list:
 c = list(students.values())[2:]
 print(c)
+
+# Somtimes, when printing a dict, the order will not be the same as the order the dict was 
+# constructed in -- but the order doesn't matter, the is the key-value pairs that are important
