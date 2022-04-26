@@ -1,0 +1,1 @@
+The information in thos repo is related to the course "The Data Science Course 2022" fro, Udemy.
